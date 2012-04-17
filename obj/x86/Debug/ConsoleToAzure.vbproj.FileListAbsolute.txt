@@ -1,0 +1,20 @@
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.Resources.resources
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\bin\Debug\ConsoleToAzure.exe
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\bin\Debug\ConsoleToAzure.pdb
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\bin\Debug\ConsoleToAzure.xml
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.exe
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.xml
+C:\Users\Turlough\AppData\Local\Temporary Projects\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.pdb
+C:\Users\Turlough\documents\visual studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.exe
+C:\Users\Turlough\documents\visual studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.xml
+C:\Users\Turlough\documents\visual studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.pdb
+C:\Users\Turlough\Documents\Visual Studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\bin\Debug\ConsoleToAzure.exe
+C:\Users\Turlough\Documents\Visual Studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\bin\Debug\ConsoleToAzure.pdb
+C:\Users\Turlough\Documents\Visual Studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\bin\Debug\ConsoleToAzure.xml
+C:\Users\Turlough\Documents\Visual Studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Turlough\Documents\Visual Studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\obj\x86\Debug\ConsoleToAzure.Resources.resources
+C:\Users\Turlough\Documents\Visual Studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Turlough\Documents\Visual Studio 2010\Projects\ConsoleToAzure\ConsoleToAzure\obj\x86\Debug\GenerateResource.write.1.tlog
